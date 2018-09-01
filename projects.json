@@ -1,31 +1,33 @@
 {     "projects": [
-        {
-          "id": 201704,
-          "title": "Puzzler",
-          "image": "https://cdn-images-1.medium.com/max/800/1*QkfTs7GP14be0eTFH1zaow.png",
-          "youtube": "https://www.youtube.com/watch?v=qyYsjz-i3Jo",
+	
+	https://youtu.be/ONiD9XObTIE
+	{
+          "id":  201803,
+          "title": "Spooky Scary Skeletons",
+          "image": "https://github.com/canunkystudios/WebsiteMedia/blob/master/SpookyScarySkeletons.png?raw=true",
+          "youtube": "https://youtu.be/ONiD9XObTIE",
+          "github": "NONE",
+          "blog": "NONE",
+          "desctitle": "Restless Spirit - Udacity Capstone Project.",
+          "desc": "Work to complete a series of VR challenges, winning points as you progress. Create a VR project of your choosing, using any hardware. Choose from a wide range of achievements and each achievement wins a different number of points. To succeed, you need to reach the required points level.",
+          "category": "Unity - Vuforia",
+          "type": "Augmented Reality",
+          "code": "VRBoxClass",
+	 "platform": "Android"
+        },
+	        {
+          "id":  201802,
+          "title": "Udacity Capstone",
+          "image": "https://github.com/canunkystudios/WebsiteMedia/blob/master/RestlessSpiritRoom.png?raw=true",
+          "youtube": "https://www.youtube.com/playlist?list=PLgChqqjsrFtNCvT27SoN7EKbIT6lzTMbh",
           "github": "https://github.com/canunkystudios",
-          "blog": "https://medium.com/@mikeyoakes/designing-a-puzzler-vr-application-8d98562a70f1",
-          "desctitle": "NONE",
-          "desc": "I designed and developed a working Virtual Reality Puzzler app for use on Google Cardboard - A simple Simon-Says type puzzle where the user watches and mimics a sequence of illuminating lights using gaze/click. The setting is a VR dungeon-like environment with a mysterious and magical ambiance. I applied design techniques like ergonomics, personas, and rapid-prototyping to create the mobile VR application and create a public write-up for the game in the blog link above.",
+          "blog": "https://medium.com/@mikeyoakes/udacity-capstone-restless-spirit-project-f10632ee4e2",
+          "desctitle": "Restless Spirit - Udacity Capstone Project.",
+          "desc": "Work to complete a series of VR challenges, winning points as you progress. Create a VR project of your choosing, using any hardware. Choose from a wide range of achievements and each achievement wins a different number of points. To succeed, you need to reach the required points level.",
           "category": "Unity - GoogleVR",
           "type": "Virtual Reality",
           "code": "VRBoxClass",
-		  "platform": "Android"
-        },
-        {
-          "id":  201705,
-          "title": "Night At The Museum",
-          "image": "https://cdn-images-1.medium.com/max/800/1*3LOqXtq0samKbwM69Z3sFw.png",
-          "youtube": "https://www.youtube.com/playlist?list=PLgChqqjsrFtNrRHopMdo5GuiQ74FqiQKl",
-          "github": "https://github.com/canunkystudios",
-          "blog": "https://medium.com/@mikeyoakes/night-at-the-museum-a-vr-experience-showing-how-vr-and-ar-is-disrupting-the-marketing-industry-31e5e613dba1",
-          "desctitle": "NONE",
-          "desc": "A Virtual Museum Experience entitled A Night At The Museum, this is a Mobile based museum application consisting of at several information stations that demonstrate examples of how Virtual and Augmented Reality is impacting and disrupting the Marketing Industry. This project showcases locomotion, VR scene design, interactivity, and an understanding of the industry and is also a lot of fun!",
-          "category": "Mobile Development",
-		  "type": "Virtual Reality",
-          "code": "VRBoxClass",
-		  "platform": "Android"
+		      "platform": "Android"
         },
         {
           "id":  201801,
@@ -40,7 +42,22 @@
           "type": "Augmented Reality",
           "code": "ARBoxClass",
 		  "platform": "IoS"
+        },	
+        {
+          "id":  201705,
+          "title": "Night At The Museum",
+          "image": "https://cdn-images-1.medium.com/max/800/1*3LOqXtq0samKbwM69Z3sFw.png",
+          "youtube": "https://www.youtube.com/playlist?list=PLgChqqjsrFtNrRHopMdo5GuiQ74FqiQKl",
+          "github": "https://github.com/canunkystudios",
+          "blog": "https://medium.com/@mikeyoakes/night-at-the-museum-a-vr-experience-showing-how-vr-and-ar-is-disrupting-the-marketing-industry-31e5e613dba1",
+          "desctitle": "NONE",
+          "desc": "A Virtual Museum Experience entitled A Night At The Museum, this is a Mobile based museum application consisting of at several information stations that demonstrate examples of how Virtual and Augmented Reality is impacting and disrupting the Marketing Industry. This project showcases locomotion, VR scene design, interactivity, and an understanding of the industry and is also a lot of fun!",
+          "category": "Mobile Development",
+		  "type": "Virtual Reality",
+          "code": "VRBoxClass",
+		  "platform": "Android"
         },
+
         {
           "id":  201703,
           "title": "Storytellers Revenge",
@@ -54,34 +71,6 @@
           "type": "Virtual Reality",
           "code": "VRBoxClass",
 		  "platform": "Android"
-        },
-        {
-          "id":  201701,
-          "title": "Modern Apartment",
-          "image": "https://github.com/canunkystudios/WebsiteMedia/blob/master/apartment.png?raw=true",
-          "youtube": "https://www.youtube.com/playlist?list=PLgChqqjsrFtMepx04cYhkZZ2xl4VKEsLk",
-          "github": "https://github.com/canunkystudios",
-          "blog": "NONE",
-          "desctitle": "NONE",
-          "desc": "Created a VR Modern Apartment experience to run on Google Cardboard.  Created a layout and loaded supplied mesh objects into the scene, placed them in the 3D virtual space, and assigned supplied materials and textures to create a realistic look. Added other furniture (including a kitchen) and added some high-performance mood lighting, which I optimized using the Unity advanced light-mapping tools to finish off the VR experience.",
-          "category": "Web Development",
-          "type": "Virtual Reality",
-          "code": "VRBoxClass",
-		      "platform": "Android"
-        },
-        {
-          "id":  201802,
-          "title": "Udacity Capstone",
-          "image": "https://github.com/canunkystudios/WebsiteMedia/blob/master/RestlessSpiritRoom.png?raw=true",
-          "youtube": "https://www.youtube.com/playlist?list=PLgChqqjsrFtNCvT27SoN7EKbIT6lzTMbh",
-          "github": "https://github.com/canunkystudios",
-          "blog": "https://medium.com/@mikeyoakes/udacity-capstone-restless-spirit-project-f10632ee4e2",
-          "desctitle": "Restless Spirit - Udacity Capstone Project.",
-          "desc": "Work to complete a series of VR challenges, winning points as you progress. Create a VR project of your choosing, using any hardware. Choose from a wide range of achievements and each achievement wins a different number of points. To succeed, you need to reach the required points level.",
-          "category": "Unity - GoogleVR",
-          "type": "Virtual Reality",
-          "code": "VRBoxClass",
-		      "platform": "Android"
         },
         {
           "id":  201702,
@@ -107,6 +96,34 @@
           "desctitle": "Submarine Project",
           "desc": "As part of the Intro to VR Course by Circuit Stream(Academy of VR) we were taught step by step through the development of an underwater Submarine game - adding in movement mechanics, creating targets, keeping score, blowing up targets, among other skills.",
           "category": "Unity - GoogleVR",
+          "type": "Virtual Reality",
+          "code": "VRBoxClass",
+		      "platform": "Android"
+        },
+        {
+          "id": 201704,
+          "title": "Puzzler",
+          "image": "https://cdn-images-1.medium.com/max/800/1*QkfTs7GP14be0eTFH1zaow.png",
+          "youtube": "https://www.youtube.com/watch?v=qyYsjz-i3Jo",
+          "github": "https://github.com/canunkystudios",
+          "blog": "https://medium.com/@mikeyoakes/designing-a-puzzler-vr-application-8d98562a70f1",
+          "desctitle": "NONE",
+          "desc": "I designed and developed a working Virtual Reality Puzzler app for use on Google Cardboard - A simple Simon-Says type puzzle where the user watches and mimics a sequence of illuminating lights using gaze/click. The setting is a VR dungeon-like environment with a mysterious and magical ambiance. I applied design techniques like ergonomics, personas, and rapid-prototyping to create the mobile VR application and create a public write-up for the game in the blog link above.",
+          "category": "Unity - GoogleVR",
+          "type": "Virtual Reality",
+          "code": "VRBoxClass",
+		  "platform": "Android"
+        },	
+        {
+          "id":  201701,
+          "title": "Modern Apartment",
+          "image": "https://github.com/canunkystudios/WebsiteMedia/blob/master/apartment.png?raw=true",
+          "youtube": "https://www.youtube.com/playlist?list=PLgChqqjsrFtMepx04cYhkZZ2xl4VKEsLk",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "NONE",
+          "desc": "Created a VR Modern Apartment experience to run on Google Cardboard.  Created a layout and loaded supplied mesh objects into the scene, placed them in the 3D virtual space, and assigned supplied materials and textures to create a realistic look. Added other furniture (including a kitchen) and added some high-performance mood lighting, which I optimized using the Unity advanced light-mapping tools to finish off the VR experience.",
+          "category": "Web Development",
           "type": "Virtual Reality",
           "code": "VRBoxClass",
 		      "platform": "Android"

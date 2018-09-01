@@ -110,62 +110,6 @@
           "type": "Virtual Reality",
           "code": "VRBoxClass",
 		      "platform": "Android"
-        },
-        {
-          "id":  201803,
-          "title": "Kananaskis Wolfdog Sanstuary",
-          "image": "https://github.com/canunkystudios/WebsiteMedia/blob/master/grey_cross.png?raw=true",
-          "youtube": "NONE",
-          "github": "https://github.com/canunkystudios",
-          "blog": "NONE",
-          "desctitle": "NONE",
-          "desc": "FUTURE PROJECT - NOT STARTED.",
-          "category": "TBD",
-          "type": "Augmented Reality",
-          "code": "BoxDisabled",
-		      "platform": "Android"
-        },
-        {
-          "id":  201804,
-          "title": "XXXX",
-          "image": "https://github.com/canunkystudios/WebsiteMedia/blob/master/grey_cross.png?raw=true",
-          "youtube": "NONE",
-          "github": "https://github.com/canunkystudios",
-          "blog": "NONE",
-          "desctitle": "NONE",
-          "desc": "FUTURE PROJECT - NOT STARTED.",
-          "category": "Web Development",
-          "type": "Virtual Reality",
-          "code": "BoxDisabled",
-		      "platform": "Android"
-        },
-        {
-          "id":  201805,
-          "title": "XXXX",
-          "image": "https://github.com/canunkystudios/WebsiteMedia/blob/master/grey_cross.png?raw=true",
-          "youtube": "NONE",
-          "github": "https://github.com/canunkystudios",
-          "blog": "NONE",
-          "desctitle": "NONE",
-          "desc": "FUTURE PROJECT - NOT STARTED.",
-          "category": "Web Development",
-          "type": "Augmented Reality",
-          "code": "BoxDisabled",
-		      "platform": "Android"
-        },
-        {
-          "id":  201806,
-          "title": "XXXX",
-          "image": "https://github.com/canunkystudios/WebsiteMedia/blob/master/grey_cross.png?raw=true",
-          "youtube": "NONE",
-          "github": "https://github.com/canunkystudios",
-          "blog": "NONE",
-          "desctitle": "NONE",
-          "desc": "FUTURE PROJECT - NOT STARTED.",
-          "category": "Web Development",
-          "type": "Web-GL",
-          "code": "BoxDisabled",
-		      "platform": "Android"
         }
       ]
  }

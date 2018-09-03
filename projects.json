@@ -1,20 +1,6 @@
 {     "projects": [
 	{
           "id":  201804,
-          "title": "PiARate Island.",
-          "image": 'https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/Screenshot_20180901-133435.png",
-          "youtube": "https://www.youtube.com/watch?v=c8FWV09HwRs&t=0s&list=PLgChqqjsrFtNQQx1Q1UhRCt9B04BXiUQI&index=4",
-          "github": "NONE",
-          "blog": "NONE",
-          "desctitle": "Zoe the Cheetah.",
-          "desc": "Augmented Reality PiARates experience built at Vivarra, using 3d part models and exoerimenting with Mixamo Animation and Rigging, Target-less, Ground Plane and Pinch/Touch resizing - Created in Unity using Vuforia.  Demonstrated here on a Google Pixel 2 XLl.",
-	  "category": "Unity - Vuforia",
-          "type": "Augmented Reality",
-          "code": "VRBoxClass",
-	 "platform": "Android"
-        },
-	{
-          "id":  201804,
           "title": "Zoe the Cheetah",
           "image": "https://github.com/canunkystudios/WebsiteMedia/blob/master/DancingCheetah.png?raw=true",
           "youtube": "https://www.youtube.com/watch?v=qyuwLpeknDk&feature=youtu.be",

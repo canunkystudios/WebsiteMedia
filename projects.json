@@ -6,7 +6,7 @@
           "youtube": "https://www.youtube.com/watch?v=qyuwLpeknDk&feature=youtu.be",
           "github": "NONE",
           "blog": "NONE",
-          "desctitle": "Zoe the Cheetah - Vuforia.",
+          "desctitle": "PiARate Island - Vuforia.",
           "desc": "Augmented Reality Dance experience built as work for Vivarra, using existing models and introducing Target-less, Ground Plane and Pinch/Touch resizing - Created in Unity using Vuforia.  Demonstrated here on a Google Pixel 2 XLl.",
 	  "category": "Unity - Vuforia",
           "type": "Augmented Reality",

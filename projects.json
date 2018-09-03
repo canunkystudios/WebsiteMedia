@@ -7,7 +7,7 @@
           "github": "NONE",
           "blog": "NONE",
           "desctitle": "PiARate Island - Vuforia.",
-          "desc": "Augmented Reality Dance experience built as work for Vivarra, using existing models and introducing Target-less, Ground Plane and Pinch/Touch resizing - Created in Unity using Vuforia.  Demonstrated here on a Google Pixel 2 XLl.",
+          "desc": "Augmented Reality PiARates child explore experience built as work for Vivarra, using existing models and introducing Target-less, Ground Plane and Pinch/Touch resizing - Created in Unity using Vuforia.  Demonstrated here on a Google Pixel 2 XLl.",
 	  "category": "Unity - Vuforia",
           "type": "Augmented Reality",
           "code": "VRBoxClass",

@@ -53,7 +53,7 @@
           "category": "Unity - ARKit",
           "type": "Augmented Reality",
           "code": "ARBoxClass",
-		  "platform": "Apple iOS - ARKit""
+		  "platform": "Apple iOS - ARKit"
         },	
         {
           "id":  201705,
@@ -69,7 +69,6 @@
           "code": "VRBoxClass",
 		  "platform": "Android"
         },
-
         {
           "id":  201703,
           "title": "Storytellers Revenge",

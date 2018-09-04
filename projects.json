@@ -1,4 +1,18 @@
 {     "projects": [
+		{
+          "id":  201805,
+          "title": "Oil Rig",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/PirateIslandImg.png",
+          "youtube": "https://www.youtube.com/watch?v=OGQhoPoPOdk&list=PLgChqqjsrFtPLOjGOSY5jKfWeKhzd0cbQ",
+          "github": "NONE",
+          "blog": "NONE",
+          "desctitle": "Oil Rig - HTC Vive.",
+          "desc": "Virtual Reality Oil Rig simulation experience built as work for 3D Media, using existing models and introducing Telportation, Controller Interation, 3D Modelling, Particle Systems, Physics and Gameplay Elements - Created in Unity for the HTC Vive and Windows Mixed Reality.  Demonstrated here using a HTC Vive.",
+	  "category": "Unity - HTC Vive",
+          "type": "Virtual Reality",
+          "code": "VRBoxClass",
+	 "platform": "HTC Vive and Windows"
+        },
 	{
           "id":  201805,
           "title": "PiARate Island",

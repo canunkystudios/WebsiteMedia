@@ -60,7 +60,7 @@
           "title": "Spooky Scary Skeletons",
           "image": "https://github.com/canunkystudios/WebsiteMedia/blob/master/SpookyScarySkeletons.png?raw=true",
           "youtube": "https://youtu.be/ONiD9XObTIE",
-          "github": "NONE",
+          "github": "https://github.com/canunkystudios",
           "blog": "NONE",
           "desctitle": "Spooky Scary Skeletons Project - Vuforia.",
           "desc": "Dancing Augmented Reality Skeletons using Model Rigging using Mixamo, Vuforia Ground Plane and Pinch/Touch resizing - Created in Unity using Vuforia.  Demonstrated here on a Google Pixel 2 XLl.",

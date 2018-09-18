@@ -1,19 +1,5 @@
 {     "projects": [	
 	{
-          "id":  201807,
-          "title": "AR Business Cards",
-          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/ARBusCard.png",
-          "youtube": "https://youtu.be/jhACCCPXWP8",
-          "github": "https://github.com/canunkystudios",
-          "blog": "NONE",
-          "desctitle": "AR Business Cards - Vuforia.",
-          "desc": "Augmented Reality Business Card with a purchased model rigged and animated through Maxamo and delivered through Unity and Vuforia - shown here on a Pixel 2 XL.",
-	  "category": "Unity - Android",
-          "type": "Augmented Reality",
-          "code": "VRBoxClass",
-	 "platform": "Android and Apple iOS"
-        },
-	{
           "id":  201806,
           "title": "Oil Rig",
           "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/OilRigFire.png",

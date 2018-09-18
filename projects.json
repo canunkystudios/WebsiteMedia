@@ -1,18 +1,4 @@
-{     "projects": [
-	{
-          "id":  201808,
-          "title": "AR Animated Book",
-          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/SuperDentist.png",
-          "youtube": "https://youtu.be/RBo0m0dyd6I",
-          "github": "https://github.com/canunkystudios",
-          "blog": "NONE",
-          "desctitle": "AR Animated Book - Vuforia.",
-          "desc": "Augmented Reality Book using 3D Created Models delivered through Unity and Vuforia - shown here on a Pixel 2 XL.",
-	  "category": "Unity - Android",
-          "type": "Augmented Reality",
-          "code": "VRBoxClass",
-	 "platform": "Android and Apple iOS"
-        },	
+{     "projects": [	
 	{
           "id":  201807,
           "title": "AR Business Cards",

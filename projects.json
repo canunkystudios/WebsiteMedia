@@ -1,4 +1,17 @@
 {     "projects": [
+	  "id":  201809,
+          "title": "VIVARRA Childrens Dental App",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/Cavitar.png",
+          "youtube": "https://youtu.be/0W1LVzrMQ10",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "AR Target 3D Model Experience - Vuforia.",
+          "desc": "VIVARRA Augmented Reality Childrens Dental Application - 3D Characters with 3D Models, Vuforia Target Recognition- Created in Unity using Vuforia.  Demonstrated here on a Google Pixel 2 XL.",
+	  "category": "Unity - Android",
+          "type": "Augmented Reality",
+          "code": "VRBoxClass",
+	 "platform": "Android and Apple iOS"
+        },
 	{
           "id":  201808,
           "title": "AR Animated Book",

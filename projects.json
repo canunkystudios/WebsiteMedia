@@ -1,7 +1,21 @@
 {     "projects": [
 	{
 	  "id":  201810,
-          "title": "AR Christmas Card - Die Hard ",
+          "title": "AR Book Cover - Along Came A Wolf",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/AR-AlongCameAWolf.PNG",
+          "youtube": "https://youtu.be/4z2YMuEtRyM",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "AR Book Cover - Along Came A Wolf.",
+          "desc": "VIVARRA Augmented Reality Book Cover - Along Came A Wolf - 2D Characters with 2D Models and Streamed Video, Vuforia Target Recognition- Created in Unity using Vuforia. Demonstrated here on a Google Pixel 2 XL.",
+	  "category": "Unity - Android",
+          "type": "Augmented Reality",
+          "code": "VRBoxClass",
+	 "platform": "Android and Apple iOS"
+        },	
+	{
+	  "id":  201810,
+          "title": "AR Christmas Card - Die Hard",
           "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/BruceDieHardClip.PNG",
           "youtube": "https://www.youtube.com/watch?v=cC5p58himxY&",
           "github": "https://github.com/canunkystudios",
@@ -12,7 +26,9 @@
           "type": "Augmented Reality",
           "code": "VRBoxClass",
 	 "platform": "Android and Apple iOS"
-        },	
+        },		
+	
+	
 	{
 	  "id":  201809,
           "title": "VIVARRA Childrens Dental App",

@@ -1,5 +1,19 @@
 {     "projects": [
 	{
+	  "id":  201810,
+          "title": "AR Christmas Card - Die Hard ",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/BruceDieHardClip.PNG",
+          "youtube": "https://www.youtube.com/watch?v=cC5p58himxY&",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "AR Christmas Card - Die Hard - Vuforia.",
+          "desc": "VIVARRA Augmented Reality Christmas Card - 3D Characters with 3D Models, Vuforia Target Recognition- Created in Unity using Vuforia.  Demonstrated here on a Google Pixel 2 XL.",
+	  "category": "Unity - Android",
+          "type": "Augmented Reality",
+          "code": "VRBoxClass",
+	 "platform": "Android and Apple iOS"
+        },	
+	{
 	  "id":  201809,
           "title": "VIVARRA Childrens Dental App",
           "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/Cavitar.png",

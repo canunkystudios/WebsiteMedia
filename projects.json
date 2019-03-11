@@ -1,5 +1,33 @@
 {     "projects": [
 	{
+	  "id":  201814,
+          "title": "AR Book Cover for Dwayne Clayden's novel OutlawMC",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/SplineBezierTrainSimulation.PNG",
+          "youtube": "https://www.youtube.com/watch?v=4pOk_x6qFDg&feature=youtu.be",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "AR Book Cover for Dwayne Clayden's novel 'OutlawMC'.",
+          "desc": "VIVARRA Augmented Reality Book Cover for the release of Calgary Author Dwayne Clayden's new novel, Outlaw MC Vuforia/Unity driven, simple animations and audio.",
+	  "category": "Unity - Android",
+          "type": "Augmented Reality",
+          "code": "VRBoxClass",
+	 "platform": "Android and Apple iOS"
+        },
+	{
+	  "id":  201813,
+          "title": "AR Magazine Cover - Early draft for Vantage Art Magazine",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/SplineBezierTrainSimulation.PNG",
+          "youtube": "https://www.youtube.com/watch?v=ifudViIIrPE",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "AR Magazine Cover - Early draft for Vantage Art Magazine",
+          "desc": "Augmented Reality magazine cover for Vantage Art Magazine in Calgary. Vuforia/Unity driven, simple animations and audio.",
+	  "category": "Unity - Android",
+          "type": "Augmented Reality",
+          "code": "VRBoxClass",
+	 "platform": "Android and Apple iOS"
+        },
+	{
 	  "id":  201812,
           "title": "Unity 3D Bezier Curve, Spline and Overlap Sphere PoC",
           "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/SplineBezierTrainSimulation.PNG",

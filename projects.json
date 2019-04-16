@@ -1,5 +1,19 @@
 {     "projects": [
 	{
+	  "id":  201816,
+          "title": "VR Fire Safety Training Demo",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/FireSafety.png",
+          "youtube": "https://youtu.be/LKKZZ5HNDuY",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "VR Fire Safety Training Demo.",
+          "desc": "Virtual Reality Fire Safety Training build with Unity for HTC Vive, Oculus and Windows Mixed Reality.",
+	  "category": "Unity - VR",
+          "type": "Virtual Reality",
+          "code": "VRBoxClass",
+	 "platform": "HTC Vive, Windows Mixed Reality"
+        },	
+	{
 	  "id":  201815,
           "title": "AR Application Hone Virtual Education - Paramedic/EMS Training Application",
           "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/AR_TrainEMS.png",

@@ -1,4 +1,18 @@
 {     "projects": [
+	{
+	"id":  201821,
+          "title": "Exxon Mobil Teal Cylinder Hazardous Chemicals Training",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/TealSteps3_To_7.PNG",
+          "youtube": "https://www.youtube.com/watch?v=PDh8KDI7lkY",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "Oculus Quest and Windows Mixed Reality VR Training Application.",
+          "desc": "I was involved for both the Product and Project Management as well as the Development of this Unity project for Exxon Mobil, delivered for Windows Mixed Reality, HTC Vive and Oculus Quest.",
+	  "category": "Unity - VR",
+          "type": "Virtual Reality",
+          "code": "VRBoxClass",
+	 "platform": "Windows Mixed Reality, Oculus Quest, HTC Vive"
+        },
 		{
 	"id":  201820,
           "title": "Google Cardboard VR Shooter Video Game",

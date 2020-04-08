@@ -27,6 +27,20 @@
           "code": "VRBoxClass",
 	 "platform": "Andoid and iOS"
         },
+		{
+	"id":  201821,
+          "title": "Masters Degree - Shader Development - C++ Direct X HLSL Cornell Box",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/RealTimeGraphisImage.PNG",
+          "youtube": "https://youtu.be/n5zeW3P5d0g",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "MSC Computer Science, Games/Graphics - Cornell Box - Shader Development  with DirectX, C++ and HLSL.",
+          "desc": "Cornell Box - HLSL Shader Development for  Masters Degree, REAL TIME GRAPHICS Module using DirectX 11, HLSL and C++.   Phong Shader, Gourand Shader, Texture Shader, Transparency Shader, Toon Shader, Bump Mapping Shader.  Point Light, Rotating Point Light and Spotlights.",
+	  "category": "HLSL - Shaders",
+          "type": "Shader Coding",
+          "code": "VRBoxClass",
+	 "platform": "Windows, C++, DirectX"
+        },	
 	{
 	"id":  201819,
           "title": "Oculus Go VR Shooter Video Game",

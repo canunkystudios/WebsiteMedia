@@ -7,7 +7,7 @@
           "github": "https://github.com/canunkystudios",
           "blog": "NONE",
           "desctitle": "MSC Computer Science Games/Graphics Project - TANKS Multiplayer Windows Shooter Game.",
-          "desc": "MSC Computer Science Games/Graphics Project - A simple 2D multiplayer, windows based Tanks shoot-em up style game with Gamepad compatibility, shown here on a small monitor. Built in DirectX11 and C++ for Windows and designed for use on a large screen or project.",
+          "desc": "MSC Computer Science Games/Graphics Project - A 2D multiplayer, windows based Tanks shoot-em up style game with Battle Royale mode and Gamepad compatibility, shown here on a small monitor. Built in DirectX11 and C++ for Windows and designed for use on a large screen or project.",
 	  "category": "DirectX - C++",
           "type": "Games Development",
           "code": "VRBoxClass",

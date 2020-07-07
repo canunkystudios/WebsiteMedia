@@ -35,7 +35,7 @@
           "github": "https://github.com/canunkystudios",
           "blog": "NONE",
           "desctitle": "Tank Simulation Demo.",
-          "desc": "A 3 day project to desig and build a simple Proof of Concept Tank Application for the Malaysian Ministry of Defence on Oculus Rift as part of my work for Atticus Digital.",
+          "desc": "A 3 day project to design and build a simple Proof of Concept Tank Application for the Malaysian Ministry of Defence on Oculus Rift as part of my work for Atticus Digital.",
 	  "category": "Unity - VR",
           "type": "Virtual Reality",
           "code": "VRBoxClass",
@@ -208,6 +208,20 @@
           "type": "Augmented Reality",
           "code": "VRBoxClass",
 	 "platform": "Android and Apple iOS"
+        },
+	{
+         "id":  201817,
+          "title": "Tanks Game (for Masters Degree)",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/TanksGame.PNG",
+          "youtube": "https://www.youtube.com/watch?v=fbQ0xkjuVV4",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "Tank Simulation Demo.",
+          "desc": "A 5 week group project as par of my Masters Degree, to design and build a 2D Tank game, using DirectX and C++.",
+	  "category": "DirectX - C++",
+          "type": "DirectX Game Coding",
+          "code": "VRBoxClass",
+	 "platform": "Windows, C++, DirectX"
         },
 	{
           "id":  201705,

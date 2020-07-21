@@ -231,7 +231,7 @@
           "github": "https://github.com/canunkystudios",
           "blog": "https://medium.com/@mikeyoakes/night-at-the-museum-a-vr-experience-showing-how-vr-and-ar-is-disrupting-the-marketing-industry-31e5e613dba1",
           "desctitle": "NONE",
-          "desc": "A Virtual Museum Experience entitled A Night At The Museum, this is a Mobile based museum application consisting of at several information stations that demonstrate examples of how Virtual and Augmented Reality is impacting and disrupting the Marketing Industry. This project showcases locomotion, VR scene design, interactivity, and an understanding of the industry and is also a lot of fun!",
+          "desc": "A Virtual Reality Museum Experience entitled A Night At The Museum, this is a Mobile based museum application consisting of at several information stations that demonstrate examples of how Virtual and Augmented Reality is impacting and disrupting the Marketing Industry. This project showcases locomotion, VR scene design, interactivity, and an understanding of the industry and is also a lot of fun!",
           "category": "Mobile Development",
 		  "type": "Virtual Reality",
           "code": "VRBoxClass",

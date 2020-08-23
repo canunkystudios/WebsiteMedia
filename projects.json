@@ -26,6 +26,21 @@
           "type": "Augmented Reality",
           "code": "VRBoxClass",
 	 "platform": "Microsoft Hololens"
+        },
+	
+	{
+	"id":  201829,
+          "title": "Oculus Quest VR Olympic Training Center Walkthrough initial version",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/TeamGBApp.PNG",
+          "youtube": "https://www.youtube.com/watch?v=C5nb2WtVdU8",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "Oculus Quest Team GB Japan Training Center VR Walkthrough (Volunteer Project).",
+          "desc": "Worked on the initial version of a Virtual Reality application, to enable Team GB Olympic Atheletes to walk through a mock-up of their proposed Japanese traning camp. This was a volunteer project for my University and was built for Oculus Quest.",
+	  "category": "Unity - VR",
+          "type": "Virtual Reality",
+          "code": "VRBoxClass",
+	 "platform": "Oculus Quest"
         },	
 	{
 	"id":  201822,

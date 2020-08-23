@@ -14,6 +14,34 @@
 	 "platform": "Apple iOS - ARKit"
         },
 	{
+	"id":  201822,
+          "title": "Exxon Mobil Teal Cylinder Hazardous Chemicals Training",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/TealSteps3_To_7.PNG",
+          "youtube": "https://www.youtube.com/watch?v=PDh8KDI7lkY",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "Oculus Quest and Windows Mixed Reality VR Training Application.",
+          "desc": "I was involved for both the Product and Project Management as well as the Development of this Unity project for Exxon Mobil, delivered for Windows Mixed Reality, HTC Vive and Oculus Quest. This is an early development stage video showing an initial sub-set of tasks.",
+	  "category": "Unity - VR",
+          "type": "Virtual Reality",
+          "code": "VRBoxClass",
+	 "platform": "Windows Mixed Reality, Oculus Quest, HTC Vive"
+        },
+	{
+	"id":  201830,
+          "title": "Hand-coded Game Engine with Multiplayer and Concurrency - C++, DirectX 11, Winsock (for Masters Degree)",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/MSCGameEngine.PNG",
+          "youtube": "https://youtu.be/aKKnWTmnBLA",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "MSC Computer Science Games/Graphics - C++ Game Engine with Multiplayer and Concurrency.",
+          "desc": "MSC Computer Science Games/Graphics Advanced Rendering - Was required to hand code a Game Engine in C++, utilizing an Entity Component System Architecture. Engine was to be used to create a simple multiplayer game using hand coded Sockets (Winsock2) and utilize Concurrency (C++ threading) for concurrent processing.  C++, DirectX 11, Winsock.",
+	  "category": "Games Development/Networking",
+          "type": "Networking and Concurrency",
+          "code": "VRBoxClass",
+	 "platform": "Windows, C++, DirectX, Winsock"
+        },
+	{
 	"id":  201828,
           "title": "Hololens AR and Artificial Intelligence Dementia Support Application (for Masters Degree)",
           "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/MSCHololensApp.PNG",
@@ -27,7 +55,20 @@
           "code": "VRBoxClass",
 	 "platform": "Microsoft Hololens"
         },
-	
+	{
+	  "id":  201817,
+          "title": "Malaysian MOD Tank Simulation Training Demo (Proof of Concept)",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/TankVR.png",
+          "youtube": "https://youtu.be/5PY3NR1DF98",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "Tank Simulation Demo.",
+          "desc": "A 3 day project to design and build a simple Proof of Concept Tank Application for the Malaysian Ministry of Defence on Oculus Rift as part of my work for Atticus Digital.",
+	  "category": "Unity - VR",
+          "type": "Virtual Reality",
+          "code": "VRBoxClass",
+	 "platform": "Oculus Rift, HTC Vive, Windows Mixed Reality"
+        },
 	{
 	"id":  201829,
           "title": "Team GB VR Olympic Training Center Walkthrough",
@@ -43,32 +84,18 @@
 	 "platform": "Oculus Quest"
         },	
 	{
-	"id":  201822,
-          "title": "Exxon Mobil Teal Cylinder Hazardous Chemicals Training",
-          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/TealSteps3_To_7.PNG",
-          "youtube": "https://www.youtube.com/watch?v=PDh8KDI7lkY",
+	"id":  201821,
+          "title": "Masters Degree - Ray Tracing/Marching, Geometry and Tessellation Shaders - C++, DirectX 11, HLSL",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/Advanced Rendering.PNG",
+          "youtube": "https://youtu.be/xiuJ8Bym5-Y",
           "github": "https://github.com/canunkystudios",
           "blog": "NONE",
-          "desctitle": "Oculus Quest and Windows Mixed Reality VR Training Application.",
-          "desc": "I was involved for both the Product and Project Management as well as the Development of this Unity project for Exxon Mobil, delivered for Windows Mixed Reality, HTC Vive and Oculus Quest. This is an early development stage video showing an initial sub-set of tasks.",
-	  "category": "Unity - VR",
-          "type": "Virtual Reality",
+          "desctitle": "MSC Computer Science Games/Graphics - Ray Tracing/Marching, Geometry, Tessellation Shaders in HLSL.",
+          "desc": "MSC Computer Science Games/Graphics Advanced Rendering - Ray Tracing/Marching, Geometry, Tessellation Shaders in HLSL.  Ray Tracing, Ray Marching, Parametric Equations, Splines and Bezier Curves. Displacement Mapping, Ping Pong Render Texture.  C++, DirectX 11, HLSL.",
+	  "category": "HLSL - Shaders",
+          "type": "Shader Coding",
           "code": "VRBoxClass",
-	 "platform": "Windows Mixed Reality, Oculus Quest, HTC Vive"
-        },
-	{
-	  "id":  201817,
-          "title": "Malaysian MOD Tank Simulation Training Demo (Proof of Concept)",
-          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/TankVR.png",
-          "youtube": "https://youtu.be/5PY3NR1DF98",
-          "github": "https://github.com/canunkystudios",
-          "blog": "NONE",
-          "desctitle": "Tank Simulation Demo.",
-          "desc": "A 3 day project to design and build a simple Proof of Concept Tank Application for the Malaysian Ministry of Defence on Oculus Rift as part of my work for Atticus Digital.",
-	  "category": "Unity - VR",
-          "type": "Virtual Reality",
-          "code": "VRBoxClass",
-	 "platform": "Oculus Rift, HTC Vive, Windows Mixed Reality"
+	 "platform": "Windows, C++, DirectX"
         },
 	{
 	  "id":  201816,
@@ -303,20 +330,6 @@
           "blog": "NONE",
           "desctitle": "MSC Computer Science, Games/Graphics - Cornell Box - Shader Development  with DirectX 11, C++ and HLSL.",
           "desc": "Cornell Box - HLSL Shader Development for  Masters Degree, REAL TIME GRAPHICS Module using DirectX 11, HLSL and C++.   Phong Shader, Gourand Shader, Texture Shader, Transparency Shader, Toon Shader, Bump Mapping Shader.  Point Light, Rotating Point Light and Spotlights.",
-	  "category": "HLSL - Shaders",
-          "type": "Shader Coding",
-          "code": "VRBoxClass",
-	 "platform": "Windows, C++, DirectX"
-        },
-	{
-	"id":  201821,
-          "title": "Masters Degree - Ray Tracing/Marching, Geometry and Tessellation Shaders - C++, DirectX 11, HLSL",
-          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/Advanced Rendering.PNG",
-          "youtube": "https://youtu.be/xiuJ8Bym5-Y",
-          "github": "https://github.com/canunkystudios",
-          "blog": "NONE",
-          "desctitle": "MSC Computer Science Games/Graphics - Ray Tracing/Marching, Geometry, Tessellation Shaders in HLSL.",
-          "desc": "MSC Computer Science Games/Graphics Advanced Rendering - Ray Tracing/Marching, Geometry, Tessellation Shaders in HLSL.  Ray Tracing, Ray Marching, Parametric Equations, Splines and Bezier Curves. Displacement Mapping, Ping Pong Render Texture.  C++, DirectX 11, HLSL.",
 	  "category": "HLSL - Shaders",
           "type": "Shader Coding",
           "code": "VRBoxClass",

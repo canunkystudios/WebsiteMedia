@@ -14,6 +14,20 @@
 	 "platform": "Apple iOS - ARKit"
         },
 	{
+	"id":  201828,
+          "title": "Hololens AR and Artificial Intelligence Application (for Masters Degree)",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/MSCHololensApp.PNG",
+          "youtube": "https://www.youtube.com/watch?v=BuOEIplXTY4",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "Microsoft Hololens and AI Dementia Support Application.",
+          "desc": "Hololens Augmented Reality Application submitted as part of my Masters Degree. Running on the Hololens Emulator, application developed to interact with MS Azure services for Image/Facial recognition and Object Recognition - aim to enable dementia sufferers to remember peoples faces and objects that require safety warnings.",
+	  "category": "Unity - AR",
+          "type": "Augmented Reality",
+          "code": "VRBoxClass",
+	 "platform": "Microsoft Hololens"
+        },	
+	{
 	"id":  201822,
           "title": "Exxon Mobil Teal Cylinder Hazardous Chemicals Training",
           "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/TealSteps3_To_7.PNG",

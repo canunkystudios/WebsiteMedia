@@ -26,7 +26,8 @@
           "type": "Virtual Reality",
           "code": "VRBoxClass",
 	 "platform": "Windows Mixed Reality, Oculus Quest, HTC Vive"
-        },
+        },	
+	{
 	"id":  201835,
           "title": "Unity Satellite Orbit (Proof of Concept)",
           "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/Satellite.PNG",

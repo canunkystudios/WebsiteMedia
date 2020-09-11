@@ -26,7 +26,21 @@
           "type": "Virtual Reality",
           "code": "VRBoxClass",
 	 "platform": "Windows Mixed Reality, Oculus Quest, HTC Vive"
-        },		
+        },
+	{
+	  "id":  201845,
+          "title": "Unity Satellite Orbit (Proof of Concept)",
+          "image": "https://raw.githubusercontent.com/canunkystudios/WebsiteMedia/master/Satellite.PNG",
+          "youtube": "https://youtu.be/RwqKDQfcZ3U",
+          "github": "https://github.com/canunkystudios",
+          "blog": "NONE",
+          "desctitle": "Unity Satellite Orbit (Proof of Concept) - C#, Unity, PC.",
+          "desc": "Unity Satellite Orbit initial Proof of Concept for client PC application - C#, Unity.",
+	  "category": "Games Development",
+          "type": "Unity",
+          "code": "VRBoxClass",
+	 "platform": "Windows, Unity, C#"
+        },	
 	{
 	"id":  201830,
           "title": "Hand-coded Game Engine with Multiplayer and Concurrency - C++, DirectX 11, Winsock (for Masters Degree)",
